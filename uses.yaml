@@ -1,0 +1,17 @@
+
+---
+
+## Tech Stack
+- React.js  
+- Framer Motion  
+- Lucide React  
+- React Router  
+- Custom UI components  
+
+---
+
+## Setup
+1. Clone or download the repository.
+2. Install dependencies:
+   ```bash
+   npm install
